@@ -1,0 +1,5 @@
+model/Validator.class
+util/IBANRegexParser.class
+util/IBANRegexParser$IBANRegexParserHolder.class
+IBANValidator.class
+model/Validator$ValidatorHolder.class
